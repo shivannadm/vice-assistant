@@ -1,4 +1,3 @@
-
 # Your's VS code needs these pip installations
 
 import pyttsx3  # pip install pyttsx3
